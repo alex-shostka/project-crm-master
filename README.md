@@ -26,3 +26,6 @@ CRM система (главная страница) для юридическо
 Если пользователь является менеджером, то он может сменить пароль для входа в систему в личном кабинете 
 
 ![Alt text](public/images/manager.png?raw=true "manager")
+
+
+Технологии: Handlebars, Node.js, Express, MognoDB, Mongoose, File-Saver.js
