@@ -28,4 +28,10 @@ CRM система (главная страница) для юридическо
 ![Alt text](public/images/manager.png?raw=true "manager")
 
 
-Технологии: Handlebars, Node.js, Express, MognoDB, Mongoose, File-Saver.js
+## Технологии: 
+- Handlebars
+- Node.js + Express
+- MognoDB + Mongoose
+- passport.js
+- excel.js
+- xlsx
